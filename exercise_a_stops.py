@@ -18,13 +18,16 @@ stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Ha
 
 #5. Remove "Livingston" from the list using its name
 
-stops.remove("Livingston")
+# stops.remove("Livingston")
 
 #6. Delete "Cumbernauld" from the list by index
 
 
 
 #7. Print the number of stops there are in the list
+
+# print(len(stops)) 
+
 #8. Sort the list alphabetically
 #9. Reverse the positions of the stops in the list
 #10 Print out all the stops using a for loop
